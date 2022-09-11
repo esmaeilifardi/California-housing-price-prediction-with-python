@@ -80,7 +80,7 @@ df_num = df.drop('ocean_proximity', axis = 1)            # jense dade fargh dara
 msno.matrix(df)
 plt.show()
 
-#------method 1 for missing data---------------------
+#-------method 1 for missing data---------------------
 
 #df_num.drop('total_bedrooms', axis = 1)                 #A  hazfe kole sootoon
 #df_num = df_num.dropna(subset = ['total_bedrooms'])     #B  hazfe khali ha
