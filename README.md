@@ -1,4 +1,4 @@
-# data-science
+# California-housing-price-prediction-with-python
 Welcome to the California Housing Prices Analysis! In this project, we are going to use the 1990 California Census dataset to study and try to understand how the different attributes can make the house prices get higher or lower. How does the location impact? How about the size of the house? The age?
 
 This dataset has a lot of information that can help us. The main goal is to build a Machine Learning Model in python that can learn from this data and make predictions of the price of a house in any district, given all the other metrics provided in the dataset.
