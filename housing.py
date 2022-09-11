@@ -21,7 +21,7 @@ from typing import final
 from unittest import result
 
 
-housing = pd.read_csv('/home/hamid/Documents/python/last/housing.csv' ,header= 0, sep= ',')
+housing = pd.read_csv('/home/hamid/Downloads/housing.csv' ,header= 0, sep= ',')
 df = housing.copy()
 
 
