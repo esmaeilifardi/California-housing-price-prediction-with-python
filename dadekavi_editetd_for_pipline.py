@@ -78,7 +78,6 @@ df_num = df.drop('ocean_proximity', axis = 1)            # jense dade fargh dara
 #-----------------------------------------------------missing dist matrix---------------------------------------------
 
 msno.matrix(df)
-print()
 plt.show()
 
 #------method 1 for missing data---------------------
