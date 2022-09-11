@@ -241,7 +241,7 @@ print('best estimator:' , grid_search.best_estimator_)
 # best estimator: RandomForestRegressor(max_features=6, n_estimators=30)
 
 
-#-----------------برای مشاهده بقیه اسکورها------------------
+#-----------------برای مشاهده بقیه اسکورها--------------------
 
 #results = grid_search.cv_results_
 
